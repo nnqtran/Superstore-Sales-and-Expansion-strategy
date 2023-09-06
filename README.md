@@ -5,14 +5,14 @@
 - Dataset stores sales information of some products of a company worldwide
 - Consists of 3 data tables:
   - Table 1: **Orders**: Fact order
-  - Table 2: **People**: Information of Sales person
+  - Table 2: **People**: Information of Salesperson
   - Table 3: **Returns**: Information of Returned orders
 ### 2. Data Dictionary
 ![image](https://user-images.githubusercontent.com/101726623/235484439-cc348e38-5a4b-48a5-aee0-ad5de3ea35ee.png)
 
 ### 3. Business Questions
-- Presenting business situation in international markets to Senior Manager.
-- Highlight important indicators for Senior Manager to decide in which markets to develop and which products are suitable for each international market.
+- Presenting business situation in international markets to the Senior Manager.
+- Highlight important indicators for the Senior Manager to decide in which markets to develop and which products are suitable for each international market.
 ## II. Design Thinking Method
 **Here are the five steps of design thinking:**
 ### Step 1 - Empathize
@@ -44,43 +44,43 @@
 ![image](https://user-images.githubusercontent.com/101726623/235497321-196e669a-c4c0-4317-810c-bd368e432e52.png)
 
 ## IV. Insights
-1, Our top 5 biggest markets are: **APAC, LATAM, EU, US, EMEA**.
+1. Our top 5 biggest markets are **APAC, LATAM, EU, US, EMEA**.
 
-2, Popular customers are "Consumer" and "Corporate" accounted for a total of : ~ **82%**.
+2. Popular customers are "Consumer" and "Corporate" accounted for a total of: ~ **82%**.
 
-3, Standard class is common shipping method.
+3. Standard class is a common shipping method.
 
-4, United state is the country with the largest number of orders.
+4. The United States is the country with the largest number of orders.
 
-5, Profit and Sales tend to reach Max at the end of the year (**Q4**) and Min at the beginning of the year (**Q1**).
+5. Profit and Sales tend to reach Max at the end of the year (**Q4**) and Min at the beginning of the year (**Q1**).
 
-6, Our popular customers according to Market are: APAC, LATAM, EU, US, EMEA and AVG, the size of the cart is: APAC > EU > US > LATAM > AFRICA, respectively.
+6. Our popular customers according to Market are: APAC, LATAM, EU, US, EMEA, and AVG, The size of the cart is: APAC > EU > US > LATAM > AFRICA, respectively.
 
-7, Our popular customers by Region are : Central EU, EMEA, Africa, OCEANIA APAC, WEST US.
+7. Our popular customers by Region are Central EU, EMEA, Africa, OCEANIA APAC, and WEST US.
 
-8, **Office Supplies** is the category mainly ordered by customers.
+8. **Office Supplies** is the category mainly ordered by customers.
 
-9, According to profit,
+9. According to profit,
 * Technology is the most profitable category.
 * Consumer is the most profitable segment.
 → **APAC** is the market where we have the highest profit ~ 0.44M and **Central EU** is the Market region with the highest profit.
 
-10, According to Return of Sales (ROS)
+10. According to Return of Sales (ROS)
 * Technology and Office supplies bring the highest ROS
-* As for Segment, it's the same about ROS
+* As for Segment, it's the same as ROS
 * **Canada** is the market that brings the highest ROS
 
 ## V. Recommendations
 **Market expansion strategy and key products**
 
-1, If we have large capital, we can focus on developing **APAC, US, EU, LATAM** regions, more specifically Market regions: **Central + North EU, APAC, West + East US, North LATAM**.
-* Note: the APAC market needs the most focus.
+1. If we have a large capital, we can focus on developing **APAC, US, EU, LATAM** regions, more specifically Market regions: **Central + North EU, APAC, West + East US, North LATAM**.
+* Note: The APAC market needs the most focus.
 * The main category is: Technology + office supplies.
-* Main sub-category are: Binders, Storage, Art, Paper, Chairs, Phones and Accessories. 
-* Segment to be targeted is: Consumer + Corporate.
+* Main sub-categories are Binders, Storage, Art, Paper, Chairs, Phones, and Accessories. 
+* The segment to be targeted is Consumer + Corporate.
 
-2, If we have limited capital, we need to pay attention to the ROS index, now there are 2 markets that need to spend a little capital but bring high profits: **Canada and Africa**.
-* Note: the Canadian market needs the most focus.
+2. If we have limited capital, we need to pay attention to the ROS index, Now there are 2 markets that need to spend a little capital but bring high profits: **Canada and Africa**.
+* Note: The Canadian market needs the most focus.
 * Main products are: Technology + office supplies.
-* Main sub-category are: Art, Binders, Storge. 
+* The main sub-categories are Art, Binders, and Storage. 
 * Segment to be targeted is: Consumer + Corporate + Home office.
